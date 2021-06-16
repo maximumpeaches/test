@@ -4,9 +4,11 @@ import './index.css';
 
 class Max extends React.Component {
   render() {
+  	// you can put any html you want between
+  	// the div tags below
     return (
       <div className="max">
-        <h1>sup bitchezz</h1>
+       
       </div>
     );
   }
