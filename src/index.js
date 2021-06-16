@@ -6,8 +6,7 @@ class Max extends React.Component {
   render() {
     return (
       <div className="max">
-        <h1>title 1</h1>
-        <h2>title2</h2>
+        <h1>sup bitchezz</h1>
       </div>
     );
   }
